@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RadioButtons</string>
+    <string name="some_text">Some text</string>
+    <string name="blank_text"></string>
+    <string name="text">Display some text</string>
+    <string name="image">Display an image</string>
+</resources>
